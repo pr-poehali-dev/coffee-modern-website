@@ -6,7 +6,7 @@ const HeroSection = () => {
         <img 
           src="https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" 
           alt="Кофейня" 
-          className="w-full h-full object-cover brightness-[0.85]"
+          className="w-full h-full object-cover brightness-[0.65]"
         />
       </div>
       <div className="relative z-10 h-full flex flex-col justify-center px-6 md:px-16 max-w-7xl mx-auto">
