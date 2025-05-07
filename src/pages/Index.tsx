@@ -83,7 +83,7 @@ const Index = () => {
           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
             <div className="h-64 overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1577968897966-3d4325b36b61?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
+                src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
                 alt="Флэт Уайт" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
@@ -105,7 +105,7 @@ const Index = () => {
           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
             <div className="h-64 overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1534687941688-651ccb9c66bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
+                src="https://images.unsplash.com/photo-1613743203842-7a5b389e0ad8?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
                 alt="Раф кофе" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
