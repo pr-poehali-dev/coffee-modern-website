@@ -42,13 +42,13 @@ const FeaturedDrinks = () => {
       description: "Классический итальянский напиток с бархатистой молочной пеной"
     },
     {
-      image: "https://images.unsplash.com/photo-1534805258485-11e2cc74efd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      image: "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
       title: "Флэт Уайт",
       price: "390 ₽",
       description: "Насыщенный эспрессо с добавлением бархатистого молока"
     },
     {
-      image: "https://images.unsplash.com/photo-1613743203842-7a5b389e0ad8?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
       title: "Раф кофе",
       price: "420 ₽",
       description: "Нежный сливочный вкус с ванильными нотками и корицей"
