@@ -15,7 +15,7 @@ const Index = () => {
           <Link to="/contact" className="text-[#3C2A21] hover:text-[#6B4226] font-medium">Контакты</Link>
         </div>
         <div className="flex items-center gap-4">
-          <button className="bg-[#6B4226] text-white px-5 py-2 rounded-full hover:bg-[#3C2A21] transition-colors">
+          <button className="bg-white text-[#6B4226] border border-[#6B4226] px-5 py-2 rounded-full hover:bg-[#F8F1E9] transition-colors">
             Заказать
           </button>
           <button className="md:hidden">
@@ -38,7 +38,7 @@ const Index = () => {
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-4">Искусство кофе в каждой чашке</h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8">Уютная атмосфера, исключительный вкус и незабываемые моменты</p>
             <div className="flex gap-4">
-              <button className="bg-[#6B4226] text-white px-6 py-3 rounded-full hover:bg-[#3C2A21] transition-colors">
+              <button className="bg-white text-[#6B4226] px-6 py-3 rounded-full hover:bg-white/90 transition-colors">
                 Наше меню
               </button>
               <button className="border-2 border-white text-white px-6 py-3 rounded-full hover:bg-white/10 transition-colors">
@@ -83,7 +83,7 @@ const Index = () => {
           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
             <div className="h-64 overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
+                src="https://images.unsplash.com/photo-1577968897966-3d4325b36b61?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
                 alt="Флэт Уайт" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
@@ -105,7 +105,7 @@ const Index = () => {
           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
             <div className="h-64 overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1579888944880-d98341245702?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
+                src="https://images.unsplash.com/photo-1534687941688-651ccb9c66bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80" 
                 alt="Раф кофе" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
@@ -265,7 +265,7 @@ const Index = () => {
               placeholder="Ваш email" 
               className="px-4 py-3 rounded-full flex-1 outline-none focus:ring-2 focus:ring-[#6B4226]/50"
             />
-            <button className="bg-[#6B4226] text-white px-6 py-3 rounded-full hover:bg-[#3C2A21] transition-colors">
+            <button className="bg-white text-[#6B4226] border border-[#6B4226] px-6 py-3 rounded-full hover:bg-[#F8F1E9] transition-colors">
               Подписаться
             </button>
           </div>
